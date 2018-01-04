@@ -8,7 +8,7 @@ Project sulution consist of three projects:
 * __dataBase__ database. Simulation results are stered in database on order to reduce number of simulation experiments.
 
 There are also 2 additional libraries placed in __lib__ folder:
-* zegraph
+* zedgraph
 * mysql
 
 ## Instalation
